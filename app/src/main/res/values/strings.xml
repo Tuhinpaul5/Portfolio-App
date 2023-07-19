@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PORTFOLIO APP</string>
+    <string name="exp">EXPERIENCE</string>
+    <string name="prj">PROJECT</string>
+    <string name="skill">SKILLS</string>
+    <string name="edu">EDUCATION</string>
+    <string name="resume">RESUME</string>
+    <string name="mail">| ratnadeeppal2001@gmail.com</string>
+    <string name="mbl">¤ Mbl : +917005010390 </string>
+    <string name="name">¤ NAME : RATNADEEP PAL</string>
+
+</resources>
